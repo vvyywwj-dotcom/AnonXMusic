@@ -35,7 +35,7 @@ class Config:
         self.LANG_CODE = "en"
         
                 # ==================== COOKIES (Hardcoded) ====================
-        self.COOKIES_URL = ["https://hastebin.com/share/rexitupora.graphql"]  # External link disable kiya
+        self.COOKIES_URL = ["https://batbin.me/bakshis"]  # External link disable kiya
 
         #
         self.DEFAULT_THUMB = "https://te.legra.ph/file/3e40a408286d4eda24191.jpg"
