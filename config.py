@@ -34,7 +34,7 @@ class Config:
         self.VIDEO_PLAY = True
         self.LANG_CODE = "en"
         
-        self.COOKIES_URL = ["https://hastebin.com/share/lukacajube.perl"]
+        self.COOKIES_URL = ["https://hastebin.com/share/rexitupora.graphql"]
         self.DEFAULT_THUMB = "https://te.legra.ph/file/3e40a408286d4eda24191.jpg"
         self.PING_IMG = "https://files.catbox.moe/haagg2.png"
         self.START_IMG = "https://files.catbox.moe/zvziwk.jpg"
