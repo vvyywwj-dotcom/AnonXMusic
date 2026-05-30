@@ -35,7 +35,7 @@ class Config:
         self.LANG_CODE = "en"
         
                 # ==================== COOKIES (Hardcoded) ====================
-        self.COOKIES_URL = ["https://batbin.me/vapocauterization"]  # External link disable kiya
+        self.COOKIES_URL = ["https://batbin.me/palpigerous"]  # External link disable kiya
 
         #
         self.DEFAULT_THUMB = "https://te.legra.ph/file/3e40a408286d4eda24191.jpg"
