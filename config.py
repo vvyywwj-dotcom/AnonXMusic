@@ -10,7 +10,7 @@ class Config:
         self.API_HASH = "210df233d07183ee955143092259dabb"
         self.BOT_TOKEN = "8713743302:AAEcHql2nKGgEnoGsqHUFtRxtS0sIGtKK5w"
         
-        self.MONGO_URL = "mongodb+srv://vvyywwj_db_user:Eb0twDcTGsgjvOXT@cluster0.rffjjen.mongodb.net/?retryWrites=true&w=majority&appName=AnonXMusic"
+        self.MONGO_URL = "mongodb+srv://shauryaragini:shibu123@cluster0.vlosfji.mongodb.net/?retryWrites=true&w=majority&appName=AnonXMusic"
         
         self.LOGGER_ID = -1003877525072
         self.OWNER_ID = 6271039736
