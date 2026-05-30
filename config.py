@@ -25,8 +25,8 @@ class Config:
         self.QUEUE_LIMIT = 20
         self.PLAYLIST_LIMIT = 20
         
-        self.SUPPORT_CHANNEL = "https://t.me/fallenx"
-        self.SUPPORT_CHAT = "https://t.me/DevilsHeavenMF"
+        self.SUPPORT_CHANNEL = "https://t.me/s0ffm"
+        self.SUPPORT_CHAT = "https://t.me/mewzicx"
         
         self.AUTO_LEAVE = False
         self.AUTO_END = False
